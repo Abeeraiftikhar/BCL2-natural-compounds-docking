@@ -1,0 +1,6 @@
+compound,best_score_kcal_mol,pose_2_score,pose_3_score,n_poses,pose_file,status,docking_time_s,molecular_weight,xlogp,hbd,hba,tpsa,rotatable_bonds
+Curcumin,-6.612,-6.456,-6.412,5,/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Curcumin_docked.pdbqt,success,7.91,368.4,3.2,2,6,93.1,8
+Quercetin,-6.544,-6.173,-5.906,5,/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Quercetin_docked.pdbqt,success,3.57,302.23,1.5,5,7,127.0,1
+Resveratrol,-6.329,-6.326,-5.968,5,/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Resveratrol_docked.pdbqt,success,2.63,228.24,3.1,3,3,60.7,2
+Apigenin,-6.648,-6.452,-6.352,5,/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Apigenin_docked.pdbqt,success,2.89,270.24,1.7,3,5,87.0,1
+Berberine,-7.052,-6.738,-6.642,5,/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Berberine_docked.pdbqt,success,1.92,336.4,3.6,0,4,40.8,2
