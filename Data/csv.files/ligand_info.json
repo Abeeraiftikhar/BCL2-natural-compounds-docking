@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Curcumin",
+    "smiles": "COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O",
+    "sdf_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Curcumin.sdf",
+    "pdbqt_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Curcumin.pdbqt",
+    "status": "success"
+  },
+  {
+    "name": "Quercetin",
+    "smiles": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O",
+    "sdf_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Quercetin.sdf",
+    "pdbqt_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Quercetin.pdbqt",
+    "status": "success"
+  },
+  {
+    "name": "Resveratrol",
+    "smiles": "C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O",
+    "sdf_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Resveratrol.sdf",
+    "pdbqt_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Resveratrol.pdbqt",
+    "status": "success"
+  },
+  {
+    "name": "Apigenin",
+    "smiles": "C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O",
+    "sdf_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Apigenin.sdf",
+    "pdbqt_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Apigenin.pdbqt",
+    "status": "success"
+  },
+  {
+    "name": "Berberine",
+    "smiles": "COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC",
+    "sdf_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Berberine.sdf",
+    "pdbqt_path": "/app/sandbox/session_20260309_105257_f9338604305e/data/ligands/Berberine.pdbqt",
+    "status": "success"
+  }
+]
