@@ -1,0 +1,52 @@
+[
+  {
+    "compound": "Curcumin",
+    "best_score_kcal_mol": -6.612,
+    "pose_2_score": -6.456,
+    "pose_3_score": -6.412,
+    "n_poses": 5,
+    "pose_file": "/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Curcumin_docked.pdbqt",
+    "status": "success",
+    "docking_time_s": 7.91
+  },
+  {
+    "compound": "Quercetin",
+    "best_score_kcal_mol": -6.544,
+    "pose_2_score": -6.173,
+    "pose_3_score": -5.906,
+    "n_poses": 5,
+    "pose_file": "/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Quercetin_docked.pdbqt",
+    "status": "success",
+    "docking_time_s": 3.57
+  },
+  {
+    "compound": "Resveratrol",
+    "best_score_kcal_mol": -6.329,
+    "pose_2_score": -6.326,
+    "pose_3_score": -5.968,
+    "n_poses": 5,
+    "pose_file": "/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Resveratrol_docked.pdbqt",
+    "status": "success",
+    "docking_time_s": 2.63
+  },
+  {
+    "compound": "Apigenin",
+    "best_score_kcal_mol": -6.648,
+    "pose_2_score": -6.452,
+    "pose_3_score": -6.352,
+    "n_poses": 5,
+    "pose_file": "/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Apigenin_docked.pdbqt",
+    "status": "success",
+    "docking_time_s": 2.89
+  },
+  {
+    "compound": "Berberine",
+    "best_score_kcal_mol": -7.052,
+    "pose_2_score": -6.738,
+    "pose_3_score": -6.642,
+    "n_poses": 5,
+    "pose_file": "/app/sandbox/session_20260309_105257_f9338604305e/results/docking/Berberine_docked.pdbqt",
+    "status": "success",
+    "docking_time_s": 1.92
+  }
+]
